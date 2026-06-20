@@ -1,6 +1,6 @@
-name: QuickFarm
+name: QuickFarm-26.2
 version: "1.0.0"
 main: com.example.quickfarm.QuickFarmPlugin
-api-version: "26.1"
+api-version: "26.2"
 description: "Right-click a fully grown crop to harvest it and instantly replant"
 author: UnName
